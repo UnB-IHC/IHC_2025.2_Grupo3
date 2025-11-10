@@ -27,9 +27,23 @@ Enquanto o **plugin** busca **tornar as interfaces mais acessíveis diretamente 
 ---
 
 ## 🧩 Tecnologias Utilizadas
--Javascript
--CSS
--HTML
+
+<table style="margin: 0 auto; border-collapse: separate; border-spacing: 48px 12px;">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="64" alt="CSS3"/><br/>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="64" alt="HTML5"/><br/>
+      <sub><b>HTML</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## 👥 Integrantes do Grupo 3
 
@@ -50,6 +64,4 @@ Enquanto o **plugin** busca **tornar as interfaces mais acessíveis diretamente 
 
 - [Projeto VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA)
 - [WCAG 2.2 – Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22)  
-- [NBR 17225 – Acessibilidade Digital](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf)  
-
----
+- [NBR 17225 – Acessibilidade Digital](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf)
