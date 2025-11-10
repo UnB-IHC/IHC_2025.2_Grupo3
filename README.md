@@ -27,7 +27,9 @@ Enquanto o **plugin** busca **tornar as interfaces mais acessíveis diretamente 
 ---
 
 ## 🧩 Tecnologias Utilizadas
----
+-Javascript
+-CSS
+-HTML
 
 ## 👥 Integrantes do Grupo 3
 
