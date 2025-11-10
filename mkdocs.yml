@@ -48,7 +48,7 @@ nav:
   - Geração de Conteúdo: pages/geracaoConteudo/conteudo.md
   - Gestão de Projetos: pages/gestaoProjeto/gestaoProjeto.md
   - Ferramentas: pages/ferramentas/ferramentas.md
-
+  - Avaliação Detran-DF: pages/detrandf/analise_detran.md
 extra_css:
   - css/custom.css
 
