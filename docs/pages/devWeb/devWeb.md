@@ -123,7 +123,7 @@ Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como im
 
 - [ ] No caso de <b>captcha</b> garanta que seja simples de entender e tenha alternativas para pessoas com deficiência. <a id="TEC1" href="#RP1">[1] [A]</a>
 
-Incluir um <b>campo de busca</b>.
+- [ ] Incluir um <b>campo de busca</b>.
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WCAG 2.2 Understanding Docs. SC 1.1.1 Non-text Content (Level A). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html). Acesso em: 03 Nov. 2025.
