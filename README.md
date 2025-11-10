@@ -1,46 +1,53 @@
-# Plugin de Auditoria de Acessibilidade Web
+<div align="center">
+  <h1>Projeto IHC - Grupo 3</h1>
+  <img src="icon.png" width="120" alt="Pocket Guide Ícone">
+</div>
 
-Este repositório contém um protótipo funcional de uma extensão para o Google Chrome, desenvolvida com o objetivo de auditar páginas web com base em critérios selecionados das Diretrizes de Acessibilidade para Conteúdo Web (WCAG).
+## 🧭 Sobre o Projeto
 
-O projeto serve como um template e ponto de partida para o desenvolvimento de ferramentas de diagnóstico de acessibilidade mais robustas.
+Este projeto foi desenvolvido como parte da disciplina **Interação Humano-Computador (IHC)** ministrada pela **Professora Rejane Figueiredo** no semestre **2025.2**.  
 
-# O que é e como criar uma Extensão de Navegador?
+O repositório contém **duas entregas complementares**:
+- 🧩 **Plugin de Acessibilidade** – localizado na branch **`main`**, destinado a oferecer recursos que tornem qualquer site mais acessível, com funções como ajuste de contraste, tamanho de fonte e leitura de texto.
+- 📘 **Pocket Guide de Acessibilidade (Checklist)** – disponível na branch **`docs`**, é um guia prático baseado nas recomendações do **WCAG** e das **NBRs**, auxiliando no processo de verificação e implementação de boas práticas de acessibilidade.
 
-Uma extensão de navegador é um pequeno programa de software que personaliza e adiciona funcionalidades ao navegador. Elas são construídas usando tecnologias web padrão: HTML, CSS e JavaScript.
+Ambas as entregas têm como base o projeto [VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA), desenvolvido em semestres anteriores, reformulado e atualizado para refletir as diretrizes mais recentes da **WCAG 2.2** e da **NBR 17225**.
 
-A arquitetura de uma extensão moderna (especificamente o Manifest V3 do Chrome) é baseada em alguns componentes principais:
+---
 
-1. `manifest.json` : informa ao navegador o nome da extensão, a versão, as permissões necessárias e quais arquivos são responsáveis por sua funcionalidade.
-2. Interface do Usuário: é a interface com a qual o usuário interage, geralmente uma pequena janela (`popup.html`) que aparece ao clicar no ícone da extensão na barra de ferramentas.
-3. Scripts: O JavaScript (`popup.js`) que dá vida à extensão, ele não pode acessar diretamente o DOM da página, por motivos de segurança. Em vez disso, ele utiliza a API chrome.scripting para injetar um script ou função no contexto da página ativa.
+## 📋 Objetivo Geral
 
-# Funcionamento Específico deste Protótipo/Template
+O **Pocket Guide** e o **Plugin de Acessibilidade** têm como propósito **promover a inclusão digital**, facilitando o acesso a conteúdos e funcionalidades por todas as pessoas, independentemente de suas limitações físicas, visuais, auditivas ou cognitivas.
 
-## 1. Estrutura de Arquivos do Projeto
+Enquanto o **plugin** busca **tornar as interfaces mais acessíveis diretamente no uso**, o **checklist** auxilia **no planejamento e na avaliação** de acessibilidade durante o desenvolvimento de produtos digitais. **Nesta branch em específico, se encontra o plugin**
 
-```
-.
-├── manifest.json     # Configuração principal da extensão (MV3)
-├── popup.html        # A interface do usuário (UI) da extensão
-├── popup.js          # Lógica da UI e a função de auditoria injetável
-└── icon.png          # Ícone exibido na barra de ferramentas do Chrome
-```
+---
 
-## 2. Como rodar e testar?
+## 🧱 Plugin
+---
 
-1. Clone ou faça o download deste repositório e descompacte-o em uma pasta local.
-2. Abra o Google Chrome e navegue até a página de extensões: chrome://extensions/
-3. No canto superior direito da página, ative o "Modo de desenvolvedor".
-4. Clique em "Carregar sem compactação" (Load unpacked).
-5. Na janela que se abre, selecione a pasta completa com os arquivos do projeto.
-6. Acesse qualquer website e clique no ícone da extensão para testar.
-7. Resultado esperado:
+## 🧩 Tecnologias Utilizadas
+---
 
-![Imagem testando o plugin de acessibilidade. Nesta imagem temos um website institucional da Universidade de Brasilia e no canto superior direito a indicação de que foram encontradas 3 inconsistências em imagens sem o ALT](img_teste.png)
+## 👥 Integrantes do Grupo 3
 
-# Recursos
+<div align="center">
+    <table>
+      <tr>
+        <td align="center"><a href="https://github.com/marcoslbz"><img style="border-radius: 50%;" src="https://github.com/marcoslbz.png" width="100px;" alt=""/><br /><sub><b>Marcos Bezerra</b></sub></a><br />
+        <td align="center"><a href="https://github.com/CaioMelo25"><img style="border-radius: 50%;" src="https://github.com/CaioMelo25.png" width="100px;" alt=""/><br /><sub><b>Caio Melo</b></sub></a><br />
+        <td align="center"><a href="https://github.com/Pnery2004"><img style="border-radius: 50%;" src="https://github.com/Pnery2004.png" width="100px;" alt=""/><br /><sub><b>Paulo Nery</b></sub></a><br />
+        <td align="center"><a href="https://github.com/LeoFacB"><img style="border-radius: 50%;" src="https://github.com/LeoFacB.png" width="100px;" alt=""/><br /><sub><b>Leonardo Bonetti</b></sub></a><br />
+      </tr>
+    </table>
+</div>
 
-- Google Chrome (Manifest V3): [Visão Geral das Extensões do Chrome](https://developer.chrome.com/docs/extensions/develop/migrate)
-- Mozilla (Firefox): [Anatomia de uma WebExtension (MDN)](https://developer.mozilla.org/pt-BR/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension)
-- Microsoft Edge: [Documentação de Extensões do Edge](https://learn.microsoft.com/pt-br/microsoft-edge/extensions/)
-- WCAG 2.1 (Referência): [Diretrizes de Acessibilidade para Conteúdo Web (W3C)](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.1)
+---
+
+## 📚 Referências
+
+- [Projeto VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA)
+- [WCAG 2.2 – Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22)  
+- [NBR 17225 – Acessibilidade Digital](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf)  
+
+---
