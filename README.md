@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="docs/assets/icon.png" width="120" alt="Pocket Guide Ícone">
   <h1>Pocket Guide</h1>
+  <img src="docs/assets/icon.png" width="120" alt="Pocket Guide Ícone">
 </div>
 
 ## 🧭 Sobre o Projeto
