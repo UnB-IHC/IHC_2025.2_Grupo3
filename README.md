@@ -54,14 +54,16 @@ O sistema foi desenvolvido com foco em **simplicidade, clareza e responsividade*
 
 ## 👥 Integrantes do Grupo 3
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/marcoslbz"><img style="border-radius: 50%;" src="https://github.com/marcoslbz.png" width="100px;" alt=""/><br /><sub><b>Marcos Bezerra</b></sub></a><br />
-    <td align="center"><a href="https://github.com/CaioMelo25"><img style="border-radius: 50%;" src="https://github.com/CaioMelo25.png" width="100px;" alt=""/><br /><sub><b>Caio Melo</b></sub></a><br />   
-    <td align="center"><a href="https://github.com/Pnery2004"><img style="border-radius: 50%;" src="https://github.com/Pnery2004.png" width="100px;" alt=""/><br /><sub><b>Paulo Nery</b></sub></a><br />   
-    <td align="center"><a href="https://github.com/LeoFacB"><img style="border-radius: 50%;" src="https://github.com/LeoFacB.png" width="100px;" alt=""/><br /><sub><b>Leonardo Bonetti</b></sub></a><br />
-  </tr>
-</table>
+<div align="center">
+    <table>
+      <tr>
+        <td align="center"><a href="https://github.com/marcoslbz"><img style="border-radius: 50%;" src="https://github.com/marcoslbz.png" width="100px;" alt=""/><br /><sub><b>Marcos Bezerra</b></sub></a><br />
+        <td align="center"><a href="https://github.com/CaioMelo25"><img style="border-radius: 50%;" src="https://github.com/CaioMelo25.png" width="100px;" alt=""/><br /><sub><b>Caio Melo</b></sub></a><br />
+        <td align="center"><a href="https://github.com/Pnery2004"><img style="border-radius: 50%;" src="https://github.com/Pnery2004.png" width="100px;" alt=""/><br /><sub><b>Paulo Nery</b></sub></a><br />
+        <td align="center"><a href="https://github.com/LeoFacB"><img style="border-radius: 50%;" src="https://github.com/LeoFacB.png" width="100px;" alt=""/><br /><sub><b>Leonardo Bonetti</b></sub></a><br />
+      </tr>
+    </table>
+</div>
 
 ---
 
