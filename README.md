@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Pocket Guide</h1>
+  <h1>Pocket Guide - Grupo 3</h1>
   <img src="docs/assets/icon.png" width="120" alt="Pocket Guide Ícone">
 </div>
 
