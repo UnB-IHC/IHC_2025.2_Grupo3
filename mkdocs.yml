@@ -1,1 +1,58 @@
-site_name: My Docs
+site_name: Pocket - Grupo 3
+site_description: Pocket Grupo 03 IHC 2025.2
+repo_url: https://github.com/annacbrandao/IHC_2025.2_Grupo03
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/icon.png
+  favicon: assets/logounb.svg
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Modo escuro
+    - scheme: slate
+      primary: teal
+      accent: light blue
+      toggle:
+        icon: material/toggle-switch
+        name: Modo claro
+  font:
+    text: "Inter"
+    code: "Fira Code"
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+    - repo.icon
+    - navigation.index
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: false
+      clickable_checkbox: true
+
+nav:
+  - Início: index.md
+  - Design: pages/design/design.md
+  - Desenvolvimento Web: pages/devWeb/devWeb.md
+  - Geração de Conteúdo: pages/geracaoConteudo/conteudo.md
+  - Gestão de Projetos: pages/gestaoProjeto/gestaoProjeto.md
+  - Ferramentas: pages/ferramentas/ferramentas.md
+
+extra_css:
+  - css/custom.css
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js
+  - js/main.js  # Caminho relativo à pasta 'docs/'
+  - js/sidebar.js
+  
