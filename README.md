@@ -27,7 +27,7 @@ Enquanto o **plugin** busca **tornar as interfaces mais acessíveis diretamente 
 ---
 
 ## 🧩 Tecnologias Utilizadas
-
+<div align="center">
 <table style="margin: 0 auto; border-collapse: separate; border-spacing: 48px 12px;">
   <tr>
     <td align="center">
