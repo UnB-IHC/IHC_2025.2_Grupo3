@@ -1,6 +1,7 @@
 site_name: Pocket - Grupo 3
 site_description: Pocket Grupo 03 IHC 2025.2
-repo_url: https://github.com/annacbrandao/IHC_2025.2_Grupo03
+repo_url: https://github.com/UnB-IHC/IHC_2025.2_Grupo3
+repo-name: IHC2025.2-Grupo_3
 
 theme:
   name: material
