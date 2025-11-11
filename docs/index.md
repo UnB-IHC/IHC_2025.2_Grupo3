@@ -9,11 +9,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // 🔧 Ordem fixa dos checklists
   const checklists = [
-    { path: '/pages/design/design/', name: 'Design' },
-    { path: '/pages/devWeb/devWeb/', name: 'DevWeb' },
-    { path: '/pages/geracaoConteudo/conteudo/', name: 'Conteúdo' },
-    { path: '/pages/gestaoProjeto/gestaoProjeto/', name: 'Projetos' },
-    { path: '/pages/ferramentas/ferramentas/', name: 'NVDA' }
+    { path: 'IHC_2025.2_Grupo3/pages/design/design/', name: 'Design' },
+    { path: 'IHC_2025.2_Grupo3/pages/devWeb/devWeb/', name: 'DevWeb' },
+    { path: 'IHC_2025.2_Grupo3/pages/geracaoConteudo/conteudo/', name: 'Conteúdo' },
+    { path: 'IHC_2025.2_Grupo3/pages/gestaoProjeto/gestaoProjeto/', name: 'Projetos' },
+    { path: 'IHC_2025.2_Grupo3/pages/ferramentas/ferramentas/', name: 'NVDA' }
   ];
 
   // 🎨 GRID CENTRALIZADO (3 por linha, centraliza se sobrar)
