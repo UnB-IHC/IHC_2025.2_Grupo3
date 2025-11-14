@@ -1,13 +1,13 @@
-site_name: Pocket - Grupo 3
-site_description: Pocket Grupo 03 IHC 2025.2
+site_name: OlhoWeb
+site_description: OlhoWeb - Pocket Grupo 03 IHC 2025.2
 repo_url: https://github.com/UnB-IHC/IHC_2025.2_Grupo3
 repo-name: IHC2025.2-Grupo_3
 
 theme:
   name: material
   language: pt-BR
-  logo: assets/icon.png
-  favicon: assets/logounb.svg
+  logo: assets/logounb.svg
+  favicon: assets/logoverde.png
   icon:
     repo: fontawesome/brands/github
   palette:

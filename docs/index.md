@@ -1,10 +1,10 @@
 #
 <div style="text-align: center">
-  <img src="assets/icon.png">
+  <img src="assets/logo2.png">
 </div>
 
 ## Bem Vindo!
-Este projeto foi desenvolvido como parte da disciplina de Interação Humano-Computador ministrada pela Professora Rejane no semestre 2025.2, com o objetivo de criar um material prático e acessível sobre acessibilidade digital.
+O OlhoWeb é um Pocket Guide de Acessibilidade desenvolvido como parte da disciplina de Interação Humano-Computador ministrada pela Professora Rejane no semestre 2025.2, com o objetivo de criar um material prático e acessível sobre acessibilidade digital.
 
 Este guia de bolso (Pocket Guide) foi feito baseado no Projeto [VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA), desenvolvido no semestre anterior, reformulado de acordo com as novidades do WCAG.
 
