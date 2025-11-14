@@ -1,0 +1,65 @@
+/* Transição suave entre temas */
+:root {
+  --transition-speed: 0.4s;
+}
+
+body,
+[data-md-color-scheme],
+.md-content,
+.md-nav,
+.md-header,
+.md-footer,
+.md-typeset,
+.md-main {
+  transition:
+    background-color var(--transition-speed) ease,
+    color var(--transition-speed) ease,
+    border-color var(--transition-speed) ease,
+    box-shadow var(--transition-speed) ease;
+}
+
+/* Cartões dos integrantes */
+.integrante-card {
+  text-align: center;
+  background-color: var(--md-default-bg-color);
+  color: var(--md-typeset-color);
+  padding: 20px;
+  border-radius: 10px;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: var(--md-shadow-z3);
+}
+
+/* Hover acessível */
+.integrante-card:hover {
+  box-shadow: var(--md-shadow-z4);
+}
+
+/* Imagens */
+.integrante-card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #4CAF50;
+}
+
+/* Nome e descrição */
+.integrante-card h3 {
+  margin-top: 10px;
+  color: var(--md-primary-fg-color);
+}
+
+.integrante-card p {
+  color: var(--md-typeset-color-secondary);
+}
+
+.task-list-item input[type="checkbox"]:focus {
+    outline: 2px solid #009485; /* Cor do outline */
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+.task-list-item input[type="checkbox"] {
+    transform: scale(1.2);
+    margin: 0 8px 0 0;
+}
