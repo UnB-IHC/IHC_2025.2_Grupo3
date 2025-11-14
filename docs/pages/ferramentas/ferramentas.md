@@ -54,6 +54,14 @@ O NVDA (NonVisual Desktop Access) é um leitor de telas gratuito e de código ab
 ## Job Acess With Speech - JAWS
 O JAWS (Job Access With Speech) é outro leitor de telas para Windows, considerado um dos mais completos e utilizados profissionalmente. Com recursos avançados de navegação e personalização, o JAWS é frequentemente empregado em ambientes corporativos e educacionais. Testar com JAWS é crucial para garantir compatibilidade com usuários que dependem de tecnologias assistivas robustas, especialmente em contextos onde a estabilidade e os recursos avançados são necessários.
 
+## Axe DevTools
+
+O Axe DevTools é uma das ferramentas de auditoria automática mais respeitadas, desenvolvida pela Deque Systems. Funcionando como uma extensão de navegador (Chrome, Firefox, Edge), ele se integra diretamente às ferramentas de desenvolvedor (DevTools). Sua principal função é escanear o código-fonte da página para identificar violações técnicas das diretrizes WCAG, classificando-as por impacto (como "Crítico" ou "Sério"). Utilizar o Axe é fundamental no ciclo de desenvolvimento, pois permite que a equipe encontre e corrija barreiras de código (como falhas de contraste, `alt` text ausente e erros de ARIA) de forma rápida e eficiente.
+
+## WAVE (Web Accessibility Evaluation Tool)
+
+O WAVE (Web Accessibility Evaluation Tool) é uma poderosa ferramenta de avaliação desenvolvida pelo WebAIM. Seu grande diferencial é a abordagem visual: ao ser ativada, a extensão injeta ícones diretamente na interface da página, mostrando visualmente onde estão os erros (vermelhos), alertas (amarejos) e acertos (verdes). Ela também fornece um painel de resumo que quantifica as falhas, como "Erros de Contraste" e "Rótulos de formulário ausentes". O WAVE é excelente para designers, analistas de conteúdo e desenvolvedores entenderem *onde* e *como* as falhas de acessibilidade estão impactando a página.
+
 ## LightHouse
 O Lighthouse, ferramenta de código aberto do Google, inclui auditorias de acessibilidade em seu conjunto de análises. Integrado ao Chrome DevTools, ele gera relatórios detalhados com pontuações e recomendações para melhorar a acessibilidade, desempenho e SEO de páginas web. Sua facilidade de uso e a integração direta com ferramentas conhecidas dos desenvolvedores o tornam uma opção popular para verificações rápidas e contínuas.
 
