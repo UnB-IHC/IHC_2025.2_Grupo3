@@ -5,15 +5,6 @@ Para auxiliar e facilitar o desenvolvimento de soluções acessíveis, existem d
 ## NonVisual Desktop Acess - NVDA
 O NVDA (NonVisual Desktop Access) é um leitor de telas gratuito e de código aberto para o sistema operacional Windows. Amplamente utilizado por pessoas cegas ou com baixa visão, o NVDA converte conteúdo textual em síntese de voz, permitindo a navegação por aplicativos, documentos e páginas web. Sua popularidade deve-se não apenas ao custo zero, mas também à sua eficiência e atualizações constantes, tornando-o uma ferramenta indispensável para testar a acessibilidade de softwares e sites.
 
-## Job Acess With Speech - JAWS
-O JAWS (Job Access With Speech) é outro leitor de telas para Windows, considerado um dos mais completos e utilizados profissionalmente. Com recursos avançados de navegação e personalização, o JAWS é frequentemente empregado em ambientes corporativos e educacionais. Testar com JAWS é crucial para garantir compatibilidade com usuários que dependem de tecnologias assistivas robustas, especialmente em contextos onde a estabilidade e os recursos avançados são necessários.
-
-## LightHouse
-O Lighthouse, ferramenta de código aberto do Google, inclui auditorias de acessibilidade em seu conjunto de análises. Integrado ao Chrome DevTools, ele gera relatórios detalhados com pontuações e recomendações para melhorar a acessibilidade, desempenho e SEO de páginas web. Sua facilidade de uso e a integração direta com ferramentas conhecidas dos desenvolvedores o tornam uma opção popular para verificações rápidas e contínuas.
-
-## Vlibras
-O VLIBRAS é uma suíte de ferramentas brasileira, desenvolvida por meio de uma parceria entre o Ministério da Economia e a Universidade Federal da Paraíba (UFPB), com o objetivo de promover a inclusão digital de pessoas surdas ou com deficiência auditiva. Sua função principal é traduzir conteúdos em Português para a Língua Brasileira de Sinais (Libras), que é a primeira língua e possui uma estrutura linguística completamente diferente do português escrito. O VLIBRAS não é um simples tradutor de texto; ele utiliza um avatar 3D (o "animado") para realizar os sinais, tornando o conteúdo digital acessível de uma forma visual e compreensível para a comunidade surda. A ferramenta pode ser disponibilizada como um plugin em sites governamentais, de empresas ou de instituições educacionais, aparecendo geralmente como um ícone flutuante na tela. Ao clicar nele, o usuário pode digitar ou copiar um texto para ser traduzido em Libras em tempo real. A importância do VLIBRAS é monumental, pois ele quebra uma das principais barreiras de comunicação na internet para milhões de brasileiros, garantindo o cumprimento da Lei Brasileira de Inclusão (LBI) e democratizando o acesso à informação.
-
 ## Checklist NVDA (ou leitores semelhantes)
 
 <div class="chart-container" style="position: relative; height:250px; width:250px; margin: 20px auto;">
@@ -57,6 +48,17 @@ O VLIBRAS é uma suíte de ferramentas brasileira, desenvolvida por meio de uma 
 - [ ] Mensagens que aparecem na tela são anunciadas<a id="TEC11" href="#RP11">[11] [AA]</a>
 
 - [ ] Carregamentos e atualizações são comunicados<a id="TEC11" href="#RP11">[11] [AA]</a>
+
+---
+
+## Job Acess With Speech - JAWS
+O JAWS (Job Access With Speech) é outro leitor de telas para Windows, considerado um dos mais completos e utilizados profissionalmente. Com recursos avançados de navegação e personalização, o JAWS é frequentemente empregado em ambientes corporativos e educacionais. Testar com JAWS é crucial para garantir compatibilidade com usuários que dependem de tecnologias assistivas robustas, especialmente em contextos onde a estabilidade e os recursos avançados são necessários.
+
+## LightHouse
+O Lighthouse, ferramenta de código aberto do Google, inclui auditorias de acessibilidade em seu conjunto de análises. Integrado ao Chrome DevTools, ele gera relatórios detalhados com pontuações e recomendações para melhorar a acessibilidade, desempenho e SEO de páginas web. Sua facilidade de uso e a integração direta com ferramentas conhecidas dos desenvolvedores o tornam uma opção popular para verificações rápidas e contínuas.
+
+## Vlibras
+O VLIBRAS é uma suíte de ferramentas brasileira, desenvolvida por meio de uma parceria entre o Ministério da Economia e a Universidade Federal da Paraíba (UFPB), com o objetivo de promover a inclusão digital de pessoas surdas ou com deficiência auditiva. Sua função principal é traduzir conteúdos em Português para a Língua Brasileira de Sinais (Libras), que é a primeira língua e possui uma estrutura linguística completamente diferente do português escrito. O VLIBRAS não é um simples tradutor de texto; ele utiliza um avatar 3D (o "animado") para realizar os sinais, tornando o conteúdo digital acessível de uma forma visual e compreensível para a comunidade surda. A ferramenta pode ser disponibilizada como um plugin em sites governamentais, de empresas ou de instituições educacionais, aparecendo geralmente como um ícone flutuante na tela. Ao clicar nele, o usuário pode digitar ou copiar um texto para ser traduzido em Libras em tempo real. A importância do VLIBRAS é monumental, pois ele quebra uma das principais barreiras de comunicação na internet para milhões de brasileiros, garantindo o cumprimento da Lei Brasileira de Inclusão (LBI) e democratizando o acesso à informação.
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WCAG 2.2 Understanding Docs. SC 1.1.1 Non-text Content (Level A). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html). Acesso em: 03 Nov. 2025.
