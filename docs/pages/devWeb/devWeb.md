@@ -7,76 +7,76 @@ Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como im
 ---
 
 ## Imagens
-- [ ] <b>Adicionar ``alt``</b> para imagens, botões-imagem, gráficos e imagens de mapas com pontos de acesso. <a id="TEC1" href="#RP1">[1] [A]</a>
+- [ ] <b>Adicionar ``alt``</b> para imagens, botões-imagem, gráficos e imagens de mapas com pontos de acesso. <a id="TEC1" href="#RP1">[1] [A]</a>  <a id="NBR3" href="#NBRREF">[NBR 5.2.4]</a>
 
-- [ ] <b>Adicionar ``alt=""``</b> para imagens decorativas que não tem significado. <a id="TEC1" href="#RP1">[1] [A]</a>
+- [ ] <b>Adicionar ``alt=""``</b> para imagens decorativas que não tem significado. <a id="TEC1" href="#RP1">[1] [A]</a> <a id="NBR4" href="#NBRREF">[NBR 5.2.3]</a>
 
-- [ ] <b>Incluir a descrição no alt</b> para imagens que contém texto. <a id="TEC1" href="#RP1">[1] [A]</a>
+- [ ] <b>Incluir a descrição no alt</b> para imagens que contém texto. <a id="TEC1" href="#RP1">[1] [A]</a> <a id="NBR6" href="#NBRREF">[NBR 5.2.5]</a>
 
 ## Vídeos e Mídia
-- [ ] <b>Adicionar legendas</b> para áudio em vídeos existentes. <a id="TEC2" href="#RP2">[2] [A]</a>
+- [ ] <b>Adicionar legendas</b> para áudio em vídeos existentes. <a id="TEC2" href="#RP2">[2] [A]</a> <a id="NBR7" href="#NBRREF">[NBR 5.14.2]</a>
 
-- [ ] <b>Impedir autoplay</b> para vídeos e audios. <a id="TEC12" href="#RP12">[12] [A]</a>
+- [ ] <b>Impedir autoplay</b> para vídeos e audios. <a id="TEC12" href="#RP12">[12] [A]</a> <a id="NBR8" href="#NBRREF">[NBR 5.14.7]</a>
 
-- [ ] <b>Adicionar pausa</b> para todas as mídias. <a id="TEC13" href="#RP13">[13] [A]</a>
+- [ ] <b>Adicionar pausa</b> para todas as mídias. <a id="TEC13" href="#RP13">[13] [A]</a> <a id="NBR9" href="#NBRREF">[NBR 5.14.7]</a> <a id="NBR10" href="#NBRREF">[NBR 5.15.1]</a>
 
-- [ ] <b>Adicionar transcrição</b> para audios. <a id="TEC1" href="#RP1">[1] [A]</a>
+- [ ] <b>Adicionar transcrição</b> para audios. <a id="TEC1" href="#RP1">[1] [A]</a> <a id="NBR11" href="#NBRREF">[NBR 5.14.3]</a>
 
-- [ ] <b>Evitar conteúdo com <i>flashes</i></b> (gatilhos para convulsões) ou manter abaixo dos limites. <a id="TEC3" href="#RP3">[3] [A]</a>
+- [ ] <b>Evitar conteúdo com <i>flashes</i></b> (gatilhos para convulsões) ou manter abaixo dos limites. <a id="TEC3" href="#RP3">[3] [A]</a> <a id="NBR12" href="#NBRREF">[NBR 5.15.4]</a>
 
 ## Controles e Interação
-- [ ] <b>Adicionar href</b> para links. <a id="TEC4" href="#RP4">[4] [A]</a>
+- [ ] <b>Adicionar href</b> para links. <a id="TEC4" href="#RP4">[4] [A]</a> <a id="NBR13" href="#NBRREF">[NBR 5.7.1]</a>
 
-- [ ] <b>Adicionar underline</b> nos links. <a id="TEC5" href="#RP5">[5] [A]</a>
+- [ ] <b>Adicionar underline</b> nos links. <a id="TEC5" href="#RP5">[5] [A]</a> <a id="NBR14" href="#NBRREF">[NBR 5.11.1]</a>
 
-- [ ] <b>Adicionar estados de foco</b> em campos de entrada, botões, e elementos interativos. <a id="TEC6" href="#RP6">[6] [AA]</a>
+- [ ] <b>Adicionar estados de foco</b> em campos de entrada, botões, e elementos interativos. <a id="TEC6" href="#RP6">[6] [AA]</a> <a id="NBR15" href="#NBRREF">[NBR 5.1.1]</a>
 
-- [ ] <b>Adicionar type="button"</b> nos botões. <a id="TEC4" href="#RP4">[4] [A]</a>
+- [ ] <b>Adicionar type="button"</b> nos botões. <a id="TEC4" href="#RP4">[4] [A]</a> <a id="NBR16" href="#NBRREF">[NBR 5.8.1]</a>
 
-- [ ] <b>Adicionar skip-link</b> (link para pular) para o conteúdo principal. <a id="TEC7" href="#RP7">[7] [A]</a>
+- [ ] <b>Adicionar skip-link</b> (link para pular) para o conteúdo principal. <a id="TEC7" href="#RP7">[7] [A]</a> <a id="NBR18" href="#NBRREF">[NBR 5.7.12]</a>
 
-- [ ] <b>Identifique e comunique</b> links que abrem em uma nova guia ou janela. <a id="TEC8" href="#RP8">[8]</a>
+- [ ] <b>Identifique e comunique</b> links que abrem em uma nova guia ou janela. <a id="TEC8" href="#RP8">[8]</a> <a id="NBR19" href="#NBRREF">[NBR 5.7.6]</a>
 
-- [ ] <b>Funcionalidades</b> da página web estão <b>disponíveis por teclado</b>. <a id="TEC13" href="#RP13">[13] [A]</a>
+- [ ] <b>Funcionalidades</b> da página web estão <b>disponíveis por teclado</b>. <a id="TEC13" href="#RP13">[13] [A]</a> <a id="NBR21" href="#NBRREF">[NBR 5.1.13]</a>
 
-- [ ] <b>Foco visível</b> - remova elementos focalizáveis ​​invisíveis. <a id="TEC6" href="#RP6">[6] [AA]</a>
+- [ ] <b>Foco visível</b> - remova elementos focalizáveis ​​invisíveis. <a id="TEC6" href="#RP6">[6] [AA]</a> <a id="NBR22" href="#NBRREF">[NBR 5.1.1]</a>
 
-- [ ] Adicione o <b>.hover, .focus { }</b> para tornar o foco visível. <a id="TEC6" href="#RP6">[6] [AA]</a>
+- [ ] Adicione o <b>.hover, .focus { }</b> para tornar o foco visível. <a id="TEC6" href="#RP6">[6] [AA]</a> <a id="NBR23" href="#NBRREF">[NBR 5.1.1]</a>
 
-- [ ] Permite/visa o uso de <b>Atalhos de teclado</b> como o TAB. <a id="TEC13" href="#RP13">[13] [A]</a>
+- [ ] Permite/visa o uso de <b>Atalhos de teclado</b> como o TAB. <a id="TEC13" href="#RP13">[13] [A]</a> <a id="NBR25" href="#NBRREF">[NBR 5.1.13]</a>
 
-- [ ] <b>Primeiro</b> item interativo da página é um link para o <b>conteúdo principal</b>. <a id="TEC7" href="#RP7">[7] [A]</a>
+- [ ] <b>Primeiro</b> item interativo da página é um link para o <b>conteúdo principal</b>. <a id="TEC7" href="#RP7">[7] [A]</a> <a id="NBR27" href="#NBRREF">[NBR 5.7.12]</a>
 
 ## Formulários
-- [ ] <b>Adicionar label</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9] [A]</a>
+- [ ] <b>Adicionar label</b> para os campos de entradas associadas ao elemento correspondente. <a id="TEC9" href="#RP9">[9] [A]</a> <a id="NBR28" href="#NBRREF">[NBR 5.9.1]</a>
 
 - [ ] <b>Adicionar ``fieldset`` e ``legend``</b> para seção no formulário. <a id="TEC4" href="#RP4">[4] [A]</a>
 
-- [ ] <b>Adicionar autocomplete</b> para campos de entrada. <a id="TEC10" href="#RP10">[10] [AA]</a>
+- [ ] <b>Adicionar autocomplete</b> para campos de entrada. <a id="TEC10" href="#RP10">[10] [AA]</a> 
 
-- [ ] <b>Exibir errors</b> (erros) de entrada acima do formulário, após envio. <a id="TEC11" href="#RP11">[11] [A]</a>
+- [ ] <b>Exibir errors</b> (erros) de entrada acima do formulário, após envio. <a id="TEC11" href="#RP11">[11] [A]</a> <a id="NBR31" href="#NBRREF">[NBR 5.9.9]</a>
 
 - [ ] <b>Adicionar aria-describedby</b> para os campos de entrada. <a id="TEC11" href="#RP11">[11] [A]</a>
 
-- [ ] <b>Exibir mensagens de erro e sucesso</b> não só visualmente. <a id="TEC5" href="#RP5">[5] [A]</a>
+- [ ] <b>Exibir mensagens de erro e sucesso</b> não só visualmente. <a id="TEC5" href="#RP5">[5] [A]</a> <a id="NBR33" href="#NBRREF">[NBR 5.9.9]</a> <a id="NBR34" href="#NBRREF">[NBR 5.11.1]</a>
 
 ## Semântica e Estrutura
-- [ ] Uso de elementos <b>nativos HTML</b>.
+- [ ] Uso de elementos <b>nativos HTML</b>. <a id="NBR35" href="#NBRREF">[NBR 5.13.11]</a>
 
-- [ ] Fluxo continuo e <b>Lógico</b>.
+- [ ] Fluxo continuo e <b>Lógico</b>. <a id="NBR36" href="#NBRREF">[NBR 5.10.2]</a>
 
-- [ ] Tem <b>descrições</b> que podem ser <b>facilmente compreendidas</b>.
+- [ ] Tem <b>descrições</b> que podem ser <b>facilmente compreendidas</b>. <a id="NBR37" href="#NBRREF">[NBR 5.12.12]</a>
 
-- [ ] Tem a <b>semântica correta</b>.
+- [ ] Tem a <b>semântica correta</b>. <a id="NBR38" href="#NBRREF">[NBR 5.13.12]</a>
 
 - [ ] É <b>objetivo</b> nos <b>rótulos</b>.
 
-- [ ] <b>Não pular níveis lógicos</b> de cabeçalho.
+- [ ] <b>Não pular níveis lógicos</b> de cabeçalho. <a id="NBR41" href="#NBRREF">[NBR 5.3.5]</a>
 
 ## Texto
-- [ ] <b>Evitar</b> o uso de <b>textos dentro de imagens</b>.
+- [ ] <b>Evitar</b> o uso de <b>textos dentro de imagens</b>. <a id="NBR42" href="#NBRREF">[NBR 5.2.5]</a>
 
-- [ ] <b>Redimensiona os textos na página</b>, aumentando o zoom em até 200%. <a id="TEC2" href="#RP2">[2] [AA]</a>
+- [ ] <b>Redimensiona os textos na página</b>, aumentando o zoom em até 200%. <a id="TEC2" href="#RP2">[2] [AA]</a> <a id="NBR43" href="#NBRREF">[NBR 5.12.7]</a>
 
 - [ ] <b>Alturas</b> das fontes <b>não é fixa</b>.
 
@@ -88,11 +88,11 @@ Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como im
 - [ ] <b>Toda página contem um título h1</b> descrevendo a página. <a id="TEC17" href="#RP17">[17] [AA]</a>
 
 ## Tabelas
-- [ ] <b>Use o table</b> para elementos em formato de tabela. <a id="TEC4" href="#RP4">[4] [A]</a>
+- [ ] <b>Use o table</b> para elementos em formato de tabela. <a id="TEC4" href="#RP4">[4] [A]</a> <a id="NBR49" href="#NBRREF">[NBR 5.6.1]</a> <a id="NBR50" href="#NBRREF">[NBR 5.6.2]</a>
 
-- [ ] Insira cabeçalhos para explicar os dados, <b>use th com scope correto</b>. <a id="TEC15" href="#RP15">[15]</a>
+- [ ] Insira cabeçalhos para explicar os dados, <b>use th com scope correto</b>. <a id="TEC15" href="#RP15">[15]</a> <a id="NBR51" href="#NBRREF">[NBR 5.6.3]</a>
 
-- [ ] <b>Use o caption</b> elemento para fornecer um título para a tabela. <a id="TEC17" href="#RP17">[17] [AA]</a>
+- [ ] <b>Use o caption</b> elemento para fornecer um título para a tabela. <a id="TEC17" href="#RP17">[17] [AA]</a> <a id="NBR52" href="#NBRREF">[NBR 5.6.4]</a>
 
 ## Modais
 - [ ] Deve ser <b>fácil fechar</b>.
@@ -101,29 +101,29 @@ Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como im
 
 - [ ] A interação é uma <b>tarefa simples</b>.
 
-- [ ] <b>Evita</b> modais em <b>tela cheia</b>.
+- [ ] <b>Evita</b> modais em <b>tela cheia</b>. <a id="NBR56" href="#NBRREF">[NBR 5.10.4]</a>
 
 - [ ] <b>Não abrir um modal a partir de outro modal</b>.
 
 ## Dispositivo Móvel e Touch
-- [ ] O site pode ser <b>rotacionado</b> para qualquer orientação. <a id="TEC14" href="#RP14">[14] [AA]</a>
+- [ ] O site pode ser <b>rotacionado</b> para qualquer orientação. <a id="TEC14" href="#RP14">[14] [AA]</a> <a id="NBR58" href="#NBRREF">[NBR 5.10.3]</a>
 
-- [ ] <b>Impedir</b> rolagem horizontal. <a id="TEC16" href="#RP16">[16] [AA]</a>
+- [ ] <b>Impedir</b> rolagem horizontal. <a id="TEC16" href="#RP16">[16] [AA]</a> <a id="NBR59" href="#NBRREF">[NBR 5.10.4]</a>
 
-- [ ] <b>Garantir</b> que botões e links possam ser ativados facilmente. <a id="TEC18" href="#RP18">[18] [AAA]</a>
+- [ ] <b>Garantir</b> que botões e links possam ser ativados facilmente. <a id="TEC18" href="#RP18">[18] [AAA]</a>  <a id="NBR61" href="#NBRREF">[NBR 5.8.7]</a>
 
-- [ ] <b>Garantir</b> espaço suficiente entre elementos interativos. <a id="TEC7" href="#RP7">[7] [A]</a>
+- [ ] <b>Garantir</b> espaço suficiente entre elementos interativos. <a id="TEC7" href="#RP7">[7] [A]</a> <a id="NBR62" href="#NBRREF">[NBR 5.8.7]</a>
 
 ## Ferramentas e Extras
 - [ ] Usar <b>Breadcrumbs</b> informando a localização atual nas páginas.
 
-- [ ] Colocar página ou <b>área de esclarecimento de dúvidas e dicas de acessibilidade</b>.
+- [ ] Colocar página ou <b>área de esclarecimento de dúvidas e dicas de acessibilidade</b>. <a id="NBR64" href="#NBRREF">[NBR 5.9.13]</a>
 
 - [ ] Áreas clicáveis com no mínimo <b>44px (pixels) de altura e 44px de largura</b>. <a id="TEC18" href="#RP18">[18] [AAA]</a>
 
-- [ ] No caso de <b>captcha</b> garanta que seja simples de entender e tenha alternativas para pessoas com deficiência. <a id="TEC1" href="#RP1">[1] [A]</a>
+- [ ] No caso de <b>captcha</b> garanta que seja simples de entender e tenha alternativas para pessoas com deficiência. <a id="TEC1" href="#RP1">[1] [A]</a> <a id="NBR67" href="#NBRREF">[NBR A.1.1]</a>
 
-- [ ] Incluir um <b>campo de busca</b>.
+- [ ] Incluir um <b>campo de busca</b>. <a id="NBR68" href="#NBRREF">[NBR 5.7.13]</a>
 
 ## Referências Bibliográficas
 > <a id="RP1" href="#TEC1">1.</a> WCAG 2.2 Understanding Docs. SC 1.1.1 Non-text Content (Level A). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html). Acesso em: 03 Nov. 2025.
@@ -162,5 +162,6 @@ Nessa fase, é importante garantir que a equipe de desenvolvimento saiba como im
 
 > <a id="RP18" href="#TEC18">18.</a> WCAG 2.2 Understanding Docs. SC 2.5.5 Target Size (Enhanced) (Level AAA). Disponível em: [https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html](https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html). Acesso em: 03 Nov. 2025.
 
+> <a id="NBRREF" href="#NBR1">19. </a> Acessibilidade em conteúdo e aplicações web — Requisitos. Associação Brasileira de Normas Técnicas, 2025. Disponível em: [https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf). Acesso em: 03 Nov. 2025.
 ## Bibliografia
 > DINIZ, V.; FERRAZ, R.; NASCIMENTO, C. M.; CREDIDIO, R. Guia de Boas Práticas para Acessibilidade Digital. Programa de Cooperação entre Reino Unido e Brasil em Acesso Digital, 2023. Disponível em: [https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf](https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/acessibilidade-digital/guiaboaspraaticasparaacessibilidadedigital.pdf). Acesso em: 03 Nov. 2025.
