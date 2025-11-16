@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Projeto IHC - Grupo 3</h1>
+  <h1>Olhoweb</h1>
   <img src="icon.png" width="120" alt="Pocket Guide Ícone">
 </div>
 
