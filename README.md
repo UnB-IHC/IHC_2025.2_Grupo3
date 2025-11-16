@@ -65,3 +65,5 @@ Enquanto o **plugin** busca **tornar as interfaces mais acessíveis diretamente 
 - [Projeto VerificaAAA](https://github.com/vitorfleonardo/VerificaAAA)
 - [WCAG 2.2 – Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG22)  
 - [NBR 17225 – Acessibilidade Digital](https://mwpt.com.br/wp-content/uploads/2025/04/ABNT-NBR-17225-Acessibilidade-Digital.pdf)
+
+  ---
